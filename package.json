@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A simple js package to analyze java exception stacktrace",
   "main": "index.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/IAFEnvoy/java-stacktrace"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
